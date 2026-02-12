@@ -1,7 +1,7 @@
 /* styles.css */
 
 * {
-	font-family: "Alegreya", serif;
+	font-family: Arial, Helvetica, serif;
 }
 
 body {
@@ -12,4 +12,15 @@ body {
 	width: 500px;
 	margin: 50px auto;
 	text-align: center;
+}
+
+.backgroundImage {
+	background-image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+}
+
+h1 {
+	font-family: "Alegreya", serif;
+		font-size: 4em;
 }
